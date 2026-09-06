@@ -5,4 +5,4 @@ About some things I have completed. I completed CS50 2 years ago and have taken 
 
 Overall I'm super hyped up to hopefully join BIOS and begin my journey at possibly the most badass club in the country.
 
-095e8f9d2ec7c476a384c3b0cc0b7c9213cebf7eCommit hash of my text-file commit: 095e8f9d2ec7c476a384c3b0cc0b7c9213cebf7e
+Commit hash of my text-file commit: 095e8f9d2ec7c476a384c3b0cc0b7c9213cebf7e
